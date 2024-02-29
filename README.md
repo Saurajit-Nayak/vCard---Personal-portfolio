@@ -1,6 +1,6 @@
 # vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+<img width="683" alt="Port_1" src="https://github.com/Saurajit-Nayak/Saurajit_Nayak-s_Portfolio/assets/129572543/eb5e56c3-17c9-4185-ac8d-749dd7c81264">
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
