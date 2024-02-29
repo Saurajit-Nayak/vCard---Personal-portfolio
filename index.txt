@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Saurajit Nayak
+Saurajit Nayak
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+saurajitnayak095@gmail.com
 
 Phone
-+1 (213) 352-2795
+7735927663
 
 Birthday
-June 23, 1982
+Nov 28, 2001
 
 Location
-Sacramento, California, USA
+Bhubaneswar, Odisha
 
 # navbar
 
@@ -31,11 +31,7 @@ Contact
 # about
 
 About me
-
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I am an ambitious and results-oriented enthusiast, eager to bring my talents to a forward-thinking organization. In pursuit of a challenging role where I can harness my strong interpersonal abilities, persuasive communication, and strategic innovative prowess to propel the organization's growth. With a versatile skill set in both front-end and back-end development, I am proficient in Java, HTML, CSS, JavaScript, and PHP. Let my technical expertise complement my strategic mindset, contributing to the success and innovation of your team.
 
 ## service
 
@@ -53,82 +49,49 @@ alt = mobile app icon
 Mobile apps
 Professional development of applications for iOS and Android.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
-
-
-
 # resume
 
 Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Master Of Computer Application
+(Kalinga Institute of Industrial Technology, Bhubaneswar)
+2022 — Present
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+• During my college journey, I mastered key academic subjects such as Java with a strong grasp of Object-Oriented Programming, Python, and delved into Artificial Intelligence with a focus on Machine Learning.
+• I successfully completed diverse projects, including the "Online Task Management System" using HTML,CSS,JavaScript,PHP and Bootstrap. Additionally, I crafted a polished Personal Portfolio .
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Bachelor Of Science
+(Bahugram Degree college, Cuttack)
+2019 — 2022
+
+• Throughout my collegiate experience, I honed my expertise in management, acquiring a versatile toolkit of soft skills such as effective communication, problem-solving, leadership, and adaptability. These competencies empowered me to navigate diverse challenges with resilience and finesse, fostering both personal and professional growth.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Digital Marketing Professional
+(Otechnos Soft Solution)
+2024- Present
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+• I have learnt the realm of digital marketing, gaining proficiency in various tools and strategies essential for effective campaigns and advertisement dissemination. I acquired skills in audience targeting, content creation, social media management, and analytics interpretation, enabling me to craft compelling marketing initiatives tailored to diverse audiences.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Marketing Team-Player
+(Vestige Marketing Pvt. Ltd)
+2020 - 2022
+• I developed and execute marketing strategies to promote Vestige's diverse range of health and wellness products.
+• Implemented lead generation strategies to identify and capture potential customers interested in Vestige products.
+
 
 My skills
-
-Web design
-80%
-Graphic design
-70%
-Branding
+HTML & CSS
 90%
-WordPress
-50%
+JavaScript
+80%
+Java
+80%
+SQL
+80%
 
 
 
